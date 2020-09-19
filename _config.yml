@@ -14,8 +14,8 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Rob's Library of Scripts"
-description:	       "Generally organized by analysis type, but won't run without modification"
+title:		           "Rob's Code Library"
+description:	       "Loosely organized analysis scripts"
 author:              "Robert R Butler III, PhD"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
