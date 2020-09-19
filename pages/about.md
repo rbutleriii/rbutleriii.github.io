@@ -3,4 +3,4 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Rob is a genomicist and bioinformatician with an extensive background in microbial genomics, psychiatric genomics, and an ever increasing knowledge of human population genomics. To accomplish all that he has developed an array of computational skills, case in point: this website. In his free time, Rob spends a large quatity of time outdoors, exploring Chicago on foot or by pedal. [Publications]({{ site.github.url }}{% page_url pubs.html %}).
