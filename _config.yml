@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Rob's Code Lib"
+title:		           "Rob's Code"
 description:	       "Loosely organized analysis scripts with musings"
 author:              "Robert R Butler III, PhD"
 
