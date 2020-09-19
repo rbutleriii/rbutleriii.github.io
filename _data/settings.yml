@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Microbiome Stuff', folder: 'pages', file: 'microbiome.html'}
+- {name: 'Microbial Stuff', folder: 'pages', file: 'microbial.html'}
 - {name: 'Transcriptomic Stuff', folder: 'pages', file: 'rnaseq.html'}
 - {name: 'Human Genetics Stuff', folder: 'pages', file: 'genes.html'}
 - {name: 'Misc Stuff', folder: 'pages', file: 'misc.html'}
