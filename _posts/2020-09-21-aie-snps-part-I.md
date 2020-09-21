@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allelic Imbalance of Expression in Rats"
+title: "Allelic Imbalance of Expression in Rats: Part I"
 author: "RRBIII"
 categories: rnaseq
 tags: [rnaseq,AIE]
