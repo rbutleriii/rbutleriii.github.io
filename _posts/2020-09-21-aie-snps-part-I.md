@@ -4,7 +4,7 @@ title: "Allelic Imbalance of Expression in Rats: Part I"
 author: "RRBIII"
 categories: rnaseq
 tags: [rnaseq,AIE]
-image: 20200917_Figure_7_LoRes.pdf
+image: aie-1.jpg
 ---
 
 
@@ -100,7 +100,7 @@ cd $wk_dir
 ```
 
 #### Ok, now to do it all again
-So, with your reads aligned with *less* mapping reference bias. STAR has implemented the WASP algorithm, but that is something to try in the future. Something that can save lots of time is gatk4.1 `-ERC GVCF` option. This will give you a set of gvcfs that can be combined with `GenotypeGVCFs` to give you an 'all calls' vcf with each sample called at all positions. So now you have read counts for REF and ALT everywhere (Note: I have three tissues I am looking at, so I split files up by a specific sample name pattern, then run the resulting steps in parallel -j3):
+So, with your reads aligned with *less* mapping reference bias. STAR has implemented the WASP algorithm, but that is something for me to try in the future. Something that can save lots of time is gatk4.1 `-ERC GVCF` option. This will give you a set of gvcfs that can be combined with `GenotypeGVCFs` to give you an 'all calls' vcf with each sample called at all positions. So now you have read counts for REF and ALT everywhere (Note: I have three tissues I am looking at, so I split files up by a specific sample name pattern, then run the resulting steps in parallel -j3):
 
 ```sh
 # calling gvcfs from masked bams
