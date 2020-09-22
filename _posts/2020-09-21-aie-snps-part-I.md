@@ -11,7 +11,7 @@ image: aie-1.jpg
 ## Allelic imbalance of expression part I: getting your reads
 
 #### But I can't use WASP...
-Sometimes you want to look at allelic imbalance of expression and [WASP](https://www.encodeproject.org/software/wasp/) isn't an option (like when you are looking at non-human genomes, or those for which you don't have a personal genome). The fallback method to correct for mapping bias is N-masking the SNPs in the your samples, then mapping your samples to said masked fasta [Details].
+Sometimes you want to look at allelic imbalance of expression and [WASP](https://www.encodeproject.org/software/wasp/) isn't an option (like when you are looking at non-human genomes, or those for which you don't have a personal genome). The fallback method to correct for mapping bias is *N*-masking the SNPs in the your samples, then mapping your samples to said masked fasta [Details].
 
 First things first, you probably already have bams from your [DE analysis]. Take a subset of your sample bams, evenly distributed across your groups and merge it into a large bam:
 
