@@ -4,7 +4,7 @@ title: "Isolation and characterization of an interactive culture of two Paenibac
 author: "RRBIII"
 categories: pubs
 tags: [pubs]
-image: isol-biot-let.jpg
+image: isol-biot-let.png
 ---
 
 
