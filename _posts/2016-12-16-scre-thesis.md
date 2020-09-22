@@ -4,7 +4,7 @@ title: "Screening and Comparing Genes of Interest in Microbial Species Using Who
 author: "RRBIII"
 categories: pubs
 tags: [pubs]
-image: scre-thesis.jpg
+image: scre-thesis-2.jpg
 ---
 
 
