@@ -141,7 +141,7 @@ NXF_VER=20.04.1 nextflow run main.nf \
 ```
 
 #### So, always good to check
-Lookiing at the head of your data is always good, and mine runs thus far. Now to let it run through 600 samples. Even with 100 threads + 360GB memory, that will take a little bit...
+Looking at the head of your data is always good, and mine runs thus far. Now to let it run through 600 samples. Even with 100 threads + 360GB memory, that will take a little bit...
 
 ```sh
 # geneshot test run
