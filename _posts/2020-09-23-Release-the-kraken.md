@@ -67,7 +67,7 @@ b.figure.savefig('richness_test.pdf')
 ```
 
 #### Will give you a plot of
-![Behold the elbows](/assets/img/kraken-2.png)
+![Behold the elbows](../assets/img/kraken-2.png)
 
 So, looks like 0.1 would be a good threshold to avoid noise. If you have too sparse data later on, you could dial it back closer to 0.05. So, lets break the server!
 
