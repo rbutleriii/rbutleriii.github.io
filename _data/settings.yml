@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: '179593885'
+google-ID: 'UA-179593885-1'
 
 menu:
 - {name: 'Microbial', folder: 'pages', file: 'microbial.html'}
