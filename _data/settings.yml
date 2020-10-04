@@ -7,10 +7,10 @@ disqus:
 google-ID: '179593885'
 
 menu:
-- {name: 'Microbial Stuff', folder: 'pages', file: 'microbial.html'}
-- {name: 'Transcriptomic Stuff', folder: 'pages', file: 'rnaseq.html'}
-- {name: 'Human Genetics Stuff', folder: 'pages', file: 'genes.html'}
-- {name: 'Misc Stuff', folder: 'pages', file: 'misc.html'}
+- {name: 'Microbial', folder: 'pages', file: 'microbial.html'}
+- {name: 'Transcriptomic', folder: 'pages', file: 'rnaseq.html'}
+- {name: 'Human Genetics', folder: 'pages', file: 'genes.html'}
+- {name: 'Misc', folder: 'pages', file: 'misc.html'}
 - {name: 'Publications', folder: 'pages', file: 'pubs.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 
