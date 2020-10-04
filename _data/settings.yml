@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: ''
+google-ID: 'rrbutleriii@gmail.com'
 
 menu:
 - {name: 'Microbial Stuff', folder: 'pages', file: 'microbial.html'}
@@ -19,6 +19,7 @@ social:
 - {icon: 'twitter', link: 'https://twitter.com/rrbiiiphd'}
 # - {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
 # - {icon: 'instagram', link: 'https://instagram.com/paululele'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/robert-butler-3111a457/'}
 - {icon: 'envelope', link: 'mailto:rrbutleriii@gmail.com'}
 - {icon: 'github', link: 'https://github.com/rbutleriii'}
 - {icon: 'google', link: 'https://scholar.google.com/citations?user=JUSoLFkAAAAJ&hl=en'}
