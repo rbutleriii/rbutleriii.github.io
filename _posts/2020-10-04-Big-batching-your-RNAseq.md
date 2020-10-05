@@ -2,7 +2,7 @@
 layout: post
 title: "Big batching your RNAseq"
 author: "RRBIII"
-categories: misc
+categories: rnaseq
 tags: [rnaseq,salmon,STAR]
 image: pca-1.png
 ---
